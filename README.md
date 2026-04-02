@@ -1,18 +1,88 @@
-# Finely
-Finely is a modern, fully-functional personal finance dashboard built with React and Recharts. It's a web application designed to help users track income, monitor expenses, and gain actionable spending insights.
-Core Purpose
-Track your finances in one beautiful, interactive interface—no subscriptions, no complexity.
+# 💸 Finely
 
-Main Features
-Visual Analytics: Interactive charts showing balance trends, income vs. expenses, and category breakdowns
-Transaction Management: Add, edit, and delete financial transactions (Admin mode)
-Smart Filtering: Search and filter transactions by type, category, date, or amount
-Spending Insights: View your highest expense categories, monthly spending trends, savings rate, and average daily expenses
-Role-Based Access: Two modes—Viewer (read-only) and Admin (full control)
-Dark & Light Themes: Toggle between dark and light modes
-Responsive Design: Works seamlessly on desktop, tablet, and mobile
-Key Sections
-Overview Tab - Summary cards with balance, income, expenses, and visual trend charts
-Transactions Tab - Complete transaction history with real-time search and filtering
-Insights Tab - Analytics cards and monthly comparison charts for smarter financial decisions
-The project includes 30+ sample transactions across 3 months (Jan-Mar 2024) to demonstrate functionality out of the box. It's built with React 18, Vite for rapid development, and styled with inline CSS for simplicity.
+**Finely** is a modern personal finance dashboard built with **React** and **Recharts**. It helps you track income, monitor expenses, and uncover actionable insights—all in a clean, interactive interface.
+
+> Simple. Visual. Powerful.  
+> No subscriptions. No clutter. Just your money, clearly understood.
+
+---
+
+## 🚀 Overview
+
+Finely transforms your financial data into meaningful visuals and insights. Whether you're casually tracking spending or diving deep into analytics, it gives you the tools to stay in control.
+
+---
+
+## ✨ Features
+
+### 📊 Visual Analytics
+- Interactive charts for balance trends  
+- Income vs. expense comparisons  
+- Category-wise breakdowns  
+
+### 🧾 Transaction Management
+- Add, edit, and delete transactions  
+- Admin mode with full control  
+
+### 🔍 Smart Filtering
+- Search by category, type, date, or amount  
+- Real-time filtering  
+
+### 🧠 Spending Insights
+- Highest expense categories  
+- Monthly spending trends  
+- Savings rate and average daily expenses  
+
+### 🔐 Role-Based Access
+- **Viewer Mode**: Read-only  
+- **Admin Mode**: Full access  
+
+### 🌗 Theme Support
+- Toggle between dark and light mode  
+
+### 📱 Responsive Design
+- Works across desktop, tablet, and mobile  
+
+---
+
+## 🧩 Application Structure
+
+### 🏠 Overview Tab
+- Summary cards (balance, income, expenses)  
+- Visual trend charts  
+
+### 📋 Transactions Tab
+- Full transaction history  
+- Search and filtering  
+
+### 📈 Insights Tab
+- Analytics cards  
+- Monthly comparisons  
+
+---
+
+## 📦 Sample Data
+
+- 30+ preloaded transactions  
+- Covers **January – March 2024**  
+- Ready to explore instantly  
+
+---
+
+## 🛠️ Tech Stack
+
+- **React 18**  
+- **Vite**  
+- **Recharts**  
+- **Inline CSS**  
+
+---
+
+## ⚡ Getting Started
+
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
